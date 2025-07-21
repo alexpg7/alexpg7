@@ -1,16 +1,20 @@
-## Hi there 👋
+# :nerd_face: `printf("Hello There!\n");`
 
-<!--
-**alexpg7/alexpg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate ![Static Badge](https://img.shields.io/badge/graduate-physicist-green?style=flat)
+studying in [![Static Badge](https://img.shields.io/badge/barcelona-black?style=flat&logo=42)](https://profile-v3.intra.42.fr/users/alpascua).
 
-Here are some ideas to get you started:
+Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, 📈Data Science and ⚛️Quantum Computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Highlighted Repositories
+
+* 🖥️ [`minishell`](https://github.com/alexpg7/minishell_alpascua_ineiras-.git) (![Static Badge](https://img.shields.io/badge/status-in_progress-orange?style=flat))
+* 👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
+
+## 🛠️ Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25" height="25"/>
+
+## 🛜 My socials
+
+[![Static Badge](https://img.shields.io/badge/barcelona-black?style=for-the-badge&logo=42)](https://profile-v3.intra.42.fr/users/alpascua) [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/alex-pascual-galera/) [![Static Badge](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=alex.pascualg7@gmail.com) 
+
