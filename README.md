@@ -7,8 +7,14 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 
 ## ⭐ Highlighted Repositories
 
+### Software Development
+
 * 🖥️ [`minishell`](https://github.com/alexpg7/minishell_alpascua_ineiras-.git) (![Static Badge](https://img.shields.io/badge/status-in_progress-orange?style=flat))
 * 👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
+
+### Data Analysis
+
+* 📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis) 
 
 ## 🛠️ Tools
 
