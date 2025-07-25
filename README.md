@@ -15,7 +15,7 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 ### Data Analysis
 
 * 📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis)
-* 🪐 [``Hubble-Parameter-Constrain``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
+* 🪐 [``Hubble-Parameter-Constraint``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
 
 ## 🛠️ Tools
 
