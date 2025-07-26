@@ -17,6 +17,10 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 * 📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis)
 * 🪐 [``Hubble-Parameter-Constraint``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
 
+### Mathematics
+* 🧮[``push_swap``](https://github.com/alexpg7/push_swap)
+* ✴️``fract-ol``
+
 ## 🛠️ Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25" height="25"/>
