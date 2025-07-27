@@ -1,7 +1,7 @@
 # :nerd_face: `printf("Hello There!\n");`
 
 I am a ![Static Badge](https://img.shields.io/badge/graduate-physicist-green?style=flat)
-studying in [![Static Badge](https://img.shields.io/badge/barcelona-black?style=flat&logo=42)](https://profile-v3.intra.42.fr/users/alpascua).
+studying in [![Static Badge](https://img.shields.io/badge/Barcelona-black?style=flat&logo=42)](https://profile-v3.intra.42.fr/users/alpascua).
 
 Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, 📈Data Science and ⚛️Quantum Computing.
 
