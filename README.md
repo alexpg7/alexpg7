@@ -12,7 +12,7 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 * 🖥️ [`minishell`](https://github.com/alexpg7/minishell_alpascua_ineiras-.git) (![Static Badge](https://img.shields.io/badge/status-in_progress-orange?style=flat))
 * 👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
 
-### Data Analysis
+### Data Analysis/Science
 
 * 📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis)
 * 🪐 [``Hubble-Parameter-Constraint``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
