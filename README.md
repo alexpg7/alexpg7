@@ -14,6 +14,7 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 
 ### Data Analysis/Science
 
+* 💮[``Flower-Classifier``](https://github.com/alexpg7/Flower-Classifier/tree/main)
 * ➕[``Integral-Calculator``](https://github.com/alexpg7/Integral-calculator)
 * 📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis)
 * 🪐 [``Hubble-Parameter-Constraint``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
