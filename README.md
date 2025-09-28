@@ -9,7 +9,7 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 
 ### Software Development
 
-* 🖥️ [`minishell`](https://github.com/alexpg7/minishell_alpascua_ineiras-.git) (![Static Badge](https://img.shields.io/badge/status-in_progress-orange?style=flat))
+* 🖥️ [`minishell`](https://github.com/alexpg7/minishell.git)
 * 👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
 
 ### Data Analysis/Science
