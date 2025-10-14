@@ -9,22 +9,21 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 
 ### Software Development
 
-* 🖥️ [`minishell`](https://github.com/alexpg7/minishell.git)
-* 👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
+🖥️ [`minishell`](https://github.com/alexpg7/minishell.git)&emsp;&emsp;&emsp;👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
 
 ### Data Analysis/Science
 
-* 💮[``Flower-Classifier``](https://github.com/alexpg7/Flower-Classifier/tree/main)
-* ➕[``Integral-Calculator``](https://github.com/alexpg7/Integral-calculator)
-* 📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis)
-* 🪐 [``Hubble-Parameter-Constraint``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
+💮[``Flower-Classifier``](https://github.com/alexpg7/Flower-Classifier/tree/main)&emsp;📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis)
+
+➕[``Integral-Calculator``](https://github.com/alexpg7/Integral-calculator)&emsp;🪐 [``Hubble-Parameter-Constraint``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
+
 
 ### Mathematics
-* 🧮[``push_swap``](https://github.com/alexpg7/push_swap)
-* ✴️``fract-ol``
+🧮[``push_swap``](https://github.com/alexpg7/push_swap)&emsp;&emsp;&emsp;✴️``fract-ol``
+
 
 ## 42 tools
-* 🧮[`push_swap_visualizer`](https://github.com/alexpg7/push_swap_visualizer)
+🧮[`push_swap_visualizer`](https://github.com/alexpg7/push_swap_visualizer)
 
 ## 🛠️ Tools
 
