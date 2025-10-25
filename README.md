@@ -21,7 +21,7 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 
 
 ### Mathematics
-🧮[``push_swap``](https://github.com/alexpg7/push_swap)&emsp;&emsp;&emsp;✴️``fract-ol``
+🧮[``push_swap``](https://github.com/alexpg7/push_swap)&emsp;&emsp;&emsp;✴️[``fract-ol``](https://github.com/alexpg7/fract-ol)
 
 
 ## 42 tools
