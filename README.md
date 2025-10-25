@@ -5,7 +5,7 @@ studying in [![Static Badge](https://img.shields.io/badge/Barcelona-black?style=
 
 Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, 📈Data Science and ⚛️Quantum Computing.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpg7&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpg7&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.3&count_weight=0.7&hide=Roff,Perl" />
 
 ## ⭐ Highlighted Repositories
 
