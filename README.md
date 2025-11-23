@@ -11,25 +11,38 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 
 ### Software Development
 
-🖥️ [`minishell`](https://github.com/alexpg7/minishell.git)&emsp;&emsp;&emsp;👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
+🖥️ [`minishell`](https://github.com/alexpg7/minishell.git)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)&emsp;&emsp;&emsp;
+👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)
 
 ### Data Analysis/Science
 
-💮[``Flower-Classifier``](https://github.com/alexpg7/Flower-Classifier/tree/main)&emsp;📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis)
+💮[``Flower-Classifier``](https://github.com/alexpg7/Flower-Classifier/tree/main)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/>)
+ &emsp;📉 [``Background-Signal-Analysis``](https://github.com/alexpg7/Background-Signal-Analysis)
+  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/>)
 
-➕[``Integral-Calculator``](https://github.com/alexpg7/Integral-calculator)&emsp;🪐 [``Hubble-Parameter-Constraint``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
+➕[``Integral-Calculator``](https://github.com/alexpg7/Integral-calculator)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/>)&emsp;
+ 🪐 [``Hubble-Parameter-Constraint``](https://github.com/alexpg7/Hubble-Parameter-Constrain)
+  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/>)
 
 
 ### Mathematics
-🧮[``push_swap``](https://github.com/alexpg7/push_swap)&emsp;&emsp;&emsp;✴️[``fract-ol``](https://github.com/alexpg7/fract-ol)
+🧮[``push_swap``](https://github.com/alexpg7/push_swap)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)&emsp;&emsp;&emsp;
+✴️[``fract-ol``](https://github.com/alexpg7/fract-ol)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)
 
 
 ## 42 tools
 🧮[`push_swap_visualizer`](https://github.com/alexpg7/push_swap_visualizer)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)
 
 ## 🛠️ Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="25" height="25"/>
 
 ## 🛜 My socials
 
