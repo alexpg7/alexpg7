@@ -37,6 +37,9 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)&emsp;&emsp;&emsp;
 ✴️[``fract-ol``](https://github.com/alexpg7/fract-ol)
  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)
+ 
+♟️[``N-queens(C vs Python)``](https://github.com/alexpg7/N-queens-C_vs_Python-)
+  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/>)
 
 
 ## 42 tools
