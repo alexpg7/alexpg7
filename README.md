@@ -14,9 +14,12 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
 🖥️ [`minishell`](https://github.com/alexpg7/minishell.git)
  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)&emsp;&emsp;&emsp;
 👾 [`Conway_Game_of_Life`](https://github.com/alexpg7/Conway_Game_of_Life.git)
- (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)&emsp;&emsp;&emsp;
- 💣 [`MineSweeper`](https://github.com/alexpg7/MineSweeper.git)
  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)
+ 
+ 💣 [`MineSweeper`](https://github.com/alexpg7/MineSweeper.git)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)&emsp;&emsp;&emsp;
+ 🟥 [`cub3D`](https://github.com/alexpg7/cub3D.git)
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10" height="10"/>)&emsp;&emsp;&emsp;
  
 
 ### Data Analysis/Science
