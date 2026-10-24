@@ -25,7 +25,7 @@ Interested in :atom:Theoretical Physics, 🧮Mathematics, 📊Data Analysis, �
  &emsp;&emsp;&emsp;
 
 ⛵ [`Inception`](https://github.com/alexpg7/Inception.git)
- (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="10" height="10"/>)&emsp;&emsp;&emsp;
+ (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="17" height="17"/>)&emsp;&emsp;&emsp;
  
 
 ### Data Analysis/Science
